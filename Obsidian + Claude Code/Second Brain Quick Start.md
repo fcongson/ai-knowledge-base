@@ -2,6 +2,7 @@
 type: quick-start
 created: 2026-03-20
 tags:
+  - knowledge
   - ai
   - obsidian
   - claude-code

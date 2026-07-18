@@ -5,6 +5,7 @@ channel: How I AI
 date: 2026-02-25
 duration: 49:28
 tags:
+  - knowledge
   - ai
   - agents
   - openclaw

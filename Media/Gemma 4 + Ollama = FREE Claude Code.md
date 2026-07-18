@@ -7,6 +7,7 @@ date: 2026-04-08
 duration: ~12:00 
 tags:
 
+- knowledge
 - claude-code
 - local-llm
 - ollama

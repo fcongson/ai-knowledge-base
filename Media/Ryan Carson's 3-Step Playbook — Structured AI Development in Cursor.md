@@ -7,6 +7,7 @@ date: 2026-04-03
 duration: ~37:00 
 tags:
 
+- knowledge
 - ai
 - cursor
 - vibe-coding

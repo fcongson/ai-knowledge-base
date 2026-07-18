@@ -7,6 +7,7 @@ date: 2026-06-04
 duration: ~15:09 
 tags:
 
+- knowledge
 - ai-workflow
 - personal-organisation
 - second-brain

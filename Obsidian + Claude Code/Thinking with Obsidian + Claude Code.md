@@ -2,12 +2,11 @@
 type: guide
 created: 2026-03-20
 tags:
+  - knowledge
   - ai
   - obsidian
   - claude-code
-  - personal-knowledge-management
   - second-brain
-  - productivity
 ---
 
 # Thinking with Obsidian + Claude Code

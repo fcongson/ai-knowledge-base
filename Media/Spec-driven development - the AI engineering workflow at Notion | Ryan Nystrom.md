@@ -7,6 +7,7 @@ date: 2026-05-20
 duration: ~45:21 
 tags:
 
+- knowledge
 - ai-engineering
 - spec-driven-development
 - notion-ai

@@ -7,6 +7,7 @@ date: 2026-04-08
 duration: ~17:00 
 tags:
 
+- knowledge
 - claude-code
 - agentic-ai
 - developer-tools

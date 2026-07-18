@@ -5,6 +5,7 @@ channel: How I AI
 date: 2026-03-31
 duration: ~55:00
 tags:
+  - knowledge
   - ai
   - claude-code
   - productivity

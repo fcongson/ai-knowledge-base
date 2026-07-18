@@ -7,6 +7,7 @@ date: 2026-04-03
 duration: ~10:00 
 tags:
 
+- knowledge
 - ai
 - local-ai
 - ollama

@@ -5,6 +5,7 @@ channel: How I AI
 date: 2026-04-01
 duration: ~45:00
 tags:
+  - knowledge
   - ai
   - management
   - productivity

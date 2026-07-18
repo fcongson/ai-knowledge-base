@@ -4,6 +4,7 @@ title: AI Agentic Loops
 created: 2026-04-10 
 tags:
 
+- knowledge
 - ai
 - agents
 - agentic-loops

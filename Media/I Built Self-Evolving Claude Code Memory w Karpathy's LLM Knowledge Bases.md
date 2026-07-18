@@ -7,6 +7,7 @@ date: 2026-04-10
 duration: ~18:35 
 tags:
 
+- knowledge
 - claude-code
 - llm-knowledge-base
 - obsidian

@@ -1,16 +1,11 @@
 ---
 title: Personal AI Tool Loop System
 tags:
+  - knowledge
   - ai
-  - llm
   - agents
-  - tooling
   - automation
-  - developer-tools
   - system-design
-  - knowledge-base
-  - obsidian
-  - productivity
 ---
 
 # Personal AI Tool Loop System

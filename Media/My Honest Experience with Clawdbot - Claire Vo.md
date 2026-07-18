@@ -5,6 +5,7 @@ channel: How I AI
 date: 2026-01-28
 duration: 55:47
 tags:
+  - knowledge
   - ai
   - agents
   - clawdbot

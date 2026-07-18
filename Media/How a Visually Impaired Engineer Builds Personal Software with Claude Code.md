@@ -5,6 +5,7 @@ channel: How I AI
 date: 2026-02-16
 duration: 49:18
 tags:
+  - knowledge
   - ai
   - claude-code
   - accessibility

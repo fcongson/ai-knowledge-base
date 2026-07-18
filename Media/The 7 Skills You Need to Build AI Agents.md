@@ -7,6 +7,7 @@ date: 2026-04-18
 duration: ~10:00 
 tags:
 
+- knowledge
 - ai-agents
 - agent-engineering
 - prompt-engineering

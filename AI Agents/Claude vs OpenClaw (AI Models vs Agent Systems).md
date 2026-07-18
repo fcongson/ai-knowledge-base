@@ -3,6 +3,7 @@
 title: Claude vs OpenClaw (AI Models vs Agent Systems)  
 tags:
     
+- knowledge
 - ai
     
 - llm

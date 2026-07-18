@@ -5,6 +5,7 @@ channel: How I AI
 date: 2025-10-22
 duration: 27:23
 tags:
+  - knowledge
   - ai
   - claude
   - claude-code
